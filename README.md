@@ -6,5 +6,7 @@ mobiles his company creates. A simple assumption of the prices will not be profi
 this competitive world. To solve this problem he collects sales data of mobile phones of
 various companies. Thus, the CEO has hired you to find out some relation between
 features of a mobile phone(eg:- RAM, Internal Memory etc) and its selling price
+
+
 **Problem Statement:**
 Predict a price range, indicating how high the price is, using the Naive Bayes algorithm. 
